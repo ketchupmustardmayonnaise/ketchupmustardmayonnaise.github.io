@@ -9,14 +9,14 @@ meta:
 project:
   title: "Aqua Pineapple"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/arnolds/ketchupmustardmayonnaise"
   logo: "/assets/images/projects/aquapineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Python"
 
 agency:
-  title: "Aqua Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2018"
+  title:
+  url:
+  year:
 
 images:
   - image:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
 ---
-<p>In many tropical countries, pineapple is prepared and sold on roadsides as a snack. It is sold whole or in halves with a stick inserted. Chunks of pineapple are used in desserts such as fruit salad, as well as in some savory dishes, including pizza toppings, or as a grilled ring on a hamburger.</p>
+<p>Nothing to show.</p>
