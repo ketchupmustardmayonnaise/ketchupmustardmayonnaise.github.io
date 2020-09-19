@@ -9,14 +9,9 @@ meta:
 project:
   title: "Red Pineapple"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/ketchupmustardmayonnaise"
   logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
-
-agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  tech: "Python"
 
 images:
   - image:
