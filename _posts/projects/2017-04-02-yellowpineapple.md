@@ -9,13 +9,13 @@ meta:
 project:
   title: "Yellow Pineapple"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/ketchupmustardmayonnaise"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Python"
 
 agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  title:
+  url:
   year: "2017, 2018"
 
 images:
@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/yellowpineapple/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>The pineapple is a herbaceous perennial, which grows to 1.0 to 1.5 m (3.3 to 4.9 ft) tall, although sometimes it can be taller. The plant takes almost three years to reach maturation. It can fruit a total of three times during its lifetime.</p>
+<p>Nothing to show.</p>
