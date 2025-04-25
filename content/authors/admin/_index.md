@@ -97,7 +97,7 @@ skills:
       - name: Autodesk Fusion
         description: 'I can also do 3D modeling'
         percent: 50
-        icon: devicon/fusion
+        icon: fusion.png
   - name: Design
     items:
       - name: Photoshop
@@ -107,7 +107,7 @@ skills:
       - name: Illustrator
         description: ''
         percent: 100
-        icon: devicon/illustrator
+        icon: illustrator.png
       - name: Premiere Pro
         description: ''
         percent: 100
@@ -115,7 +115,7 @@ skills:
       - name: Lightroom
         description: ''
         percent: 100
-        icon: devicon/lightroom
+        icon: lightroom.png
       - name: Figma
         description: ''
         percent: 100
